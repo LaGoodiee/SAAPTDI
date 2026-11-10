@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://saaptdi.com.ng/sitemap.xml
